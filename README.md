@@ -3,6 +3,6 @@
   Hi everyone, I'm Kevin  
 </h1>
 <p align="center">
-  Computer Science Enginieer at <a href="https://www.epn.edu.ec/"> National Polytechnic School (Ecuador) </a>
+  Computer Science Student at <a href="https://www.epn.edu.ec/"> National Polytechnic School (Ecuador) </a>
   🏫🇪🇨
 </p>
