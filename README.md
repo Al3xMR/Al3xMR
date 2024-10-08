@@ -21,12 +21,12 @@ I am a passionate Computer Science student with a strong interest in both **soft
 
 # 🛠️ Technologies & Tools:
 
-- Operating Systems: Linux (Arch, Ubuntu, Fedora), Windows
-- Languages: Python, JavaScript, C++, Java, Bash, LaTeX
-- Web Technologies: HTML, CSS, React, Node.js, Django
-- Data: Pandas, NumPy, SQL
-- Version Control: Git, GitHub
-- Other Tools: Docker, VSCode, Vim, Nano
+- **Operating Systems:** Linux (Arch, Ubuntu, Fedora), Windows
+- **Languages:** Python, JavaScript, C++, Java, Bash, LaTeX
+- **Web Technologies:** HTML, CSS, React, Node.js, Django
+- **Data:** Pandas, NumPy, SQL
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, VSCode, Vim, Nano
 
 # 💡 Fun Fact:
 - I love tinkering with open-source software and customizing my Linux setup!
